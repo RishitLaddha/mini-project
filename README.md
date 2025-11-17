@@ -1,4 +1,4 @@
-# 🚀 ImageNet-1K Training on AWS EC2: A Cloud Computing Journey
+# ImageNet-1K Training on AWS EC2: A Cloud Computing Journey
 
 ## 🎯 What's This All About?
 
@@ -48,6 +48,22 @@ These numbers are pretty solid for training from scratch without using any pre-t
   - Integrates perfectly with S3 for static hosting
   - **Free tier eligible** - First million requests per month are FREE!
 - **What visitors see**: Beautiful, user-friendly interface explaining our journey, metrics, and model architecture
+
+---
+## 🤗 Try It Yourself - HuggingFace Space Demo
+
+Want to see the model in action? Upload your own images and get instant predictions!
+
+**🚀 Live Demo**: **[ResNet50 ImageNet-1K Inference](https://huggingface.co/spaces/RL00/resnet50-imagenet1k)** ← Click here!
+
+**Features:**
+- ✨ Upload any image (dogs, cats, cars, food, anything!)
+- ⚡ Instant predictions with confidence scores
+- 📊 Top-5 class predictions displayed
+- 🎨 Clean, user-friendly Gradio interface
+- 💯 Same model we trained for 4 days on AWS!
+
+Give it a try and see how well our model recognizes objects! 🎯
 
 ---
 
